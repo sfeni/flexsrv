@@ -1,0 +1,21 @@
+index:
+    path: /
+    controller: App\Controller\DefaultController::index
+
+ulid:
+    path: /ulid
+    controller: App\Controller\FlexApiController::ulid
+
+versions:
+    path: /versions.json
+    controller: App\Controller\FlexApiController::versions
+
+aliases:
+    path: /aliases.json
+    controller: App\Controller\FlexApiController::aliases
+
+packages:
+    path: /p/{packages}
+    controller: App\Controller\FlexApiController::packages
+    requirements:
+        packages: .+
