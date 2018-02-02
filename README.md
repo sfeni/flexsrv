@@ -5,7 +5,7 @@ Local Symfony Flex Recipe Server
 * Proxy for Contrib Recipes
 * Hosting Private Recipes
 
-It is based on Symfony 4 with flex :-)
+It is based on Symfony 4 with flex
 
 ## Simple Getting started
 Use the Docker Image XXX (not yet available)
