@@ -1,4 +1,4 @@
-# flexsrv
+# flexsrv !!! IN DEVELOPMENT !!!
 Local Symfony Flex Recipe Server
 
 * Proxy for Official Recipes
